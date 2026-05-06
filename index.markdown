@@ -236,6 +236,8 @@ Construct a program by dragging&amp;dropping and reordering lines. The construct
   });
 })();
 </script>
+## Parsons 1 (Line Based Grader)
+Your task is to rearange the code such that it asks the user for an number and checks if it is greater or equal to 10
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
